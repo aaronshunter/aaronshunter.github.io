@@ -1,4 +1,4 @@
 # aaronshunter.github.io
-Static content for repo
+Welcome to my github.io page! 
 
-Happy New Year, 2024!
+This is a placeholder for my page. Please stay tuned for more info, coming soon 😊 
